@@ -27,9 +27,9 @@ class MenuCLI(ParsingCourses):
         print("2. Евро")
         print("3. Российский рубль")
         print("4. Выйти")
-        print("5.Конвертировать USD → BYN")
-        print("6.Конвертировать EUR → BYN")
-        print("7.Конвертировать RUB → BYN  ")
+        print("5.Конвертировать USD \u2192 BYN")
+        print("6.Конвертировать EUR \u2192 BYN")
+        print("7.Конвертировать RUB \u2192 BYN  ")
         
 
         while True:
